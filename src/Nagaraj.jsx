@@ -3,7 +3,7 @@ import React from 'react'
 const Nagaraj = () => {
   return (
     <div>
-      <p> i am Manohar from sasvihalli</p>
+      <p>My name is nagaraj i am from alekallu </p>
     </div>
   )
 }
